@@ -14,6 +14,8 @@ Whether you're a beginner in web development or just want a lightweight solution
 - 🎨 Customizable design using CSS
 - 📱 Responsive layout for mobile and desktop
 - 🔗 Internal linking for smooth navigation
-  
-  just download the zip file and open it in a vs code,make changes like changing the subject names ,file of subject notes and on the live server and add notes of the subjects
-Want help designing the homepage or adding semester tabs dynamically? I’d love to help you build it out!
+---
+  just download the zip file and open it in a vs code,make changes like replacing the subject names ,file of subject notes and on the live server
+
+---
+  Want help designing the homepage or adding semester tabs dynamically? I’d love to help you build it out!
